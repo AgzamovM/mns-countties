@@ -60,6 +60,8 @@ html {
 *::after {
   box-sizing: inherit;
 }
+*:focus{outline: 3px solid rgb(221, 154, 10) ;
+}
 
 body {
   display: flex;
